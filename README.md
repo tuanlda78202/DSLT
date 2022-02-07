@@ -1,4 +1,4 @@
-# Machine Learning Group Training.
+# Machine Learning Group Training
 <p align='left'>
   <a href="https://www.linkedin.com/in/tuanlda78202/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
