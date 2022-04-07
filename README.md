@@ -1,6 +1,6 @@
 # DSLab Training Y22
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuanlda78202/DSLT/)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tuanlda78202/DSLT?color=%23F7CAC9&label=Commit&logo=Battle.net&logoColor=%23DFCFBE&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/tuanlda78202/DSLT?color=%23F7CAC9&label=Last%20Commit&logo=Google%20Photos&logoColor=%23DFCFBE&style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/tuanlda78202/DSLT?color=%23F7CAC9&label=Repo%20Size&logo=Databricks&logoColor=%23DFCFBE&style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tuanlda78202/DSLT?color=%23F7CAC9&label=Commit&logo=Battle.net&logoColor=%23DFCFBE&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/tuanlda78202/DSLT?color=%23F7CAC9&label=Last%20Commit&logo=Google%20Photos&logoColor=%23DFCFBE&style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/tuanlda78202/DSLT?color=%23F7CAC9&label=Repo%20Size&logo=Databricks&logoColor=%23DFCFBE&style=flat-square)  
 
 <p align='left'>
   <a href="https://www.linkedin.com/in/tuanlda78202/">
