@@ -20,4 +20,7 @@ Each season we have:
 
 
 ## Note 
-I trained 
+I was in training Phase 2 DSLab - about Probabilistics Graph Model, need larger amount Mathematics, specifying Prob Stat. I will sometimes update repo  about it, but if u interest in , i refer course PGM [CS228](https://ermongroup.github.io/cs228/) of Stanford, hopy u love it!
+
+And i know people was here read this `README.md` wanna join DSLab and i think you know me :) Application forms will release in August yearly in fanpage [BKAI](http://facebook.com/bk.ai.ResearchCenter), you have 2 months for waiting check pending CV, and people pass will announcement in last September if CV of u very good. You have first interview at begining of Octorber, and then have 3 months for traing Math by yourself road to interview 2. Don't worry about it because i also don't good at Math and i still pass it. Good luck for all, hope see you soon at DSLab. 
+
