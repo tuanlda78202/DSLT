@@ -28,6 +28,8 @@ Each season we have:
 
 ## Note 
 
-I was in training Phase 2 DSLab, about the Probabilistics Graph Model, which needed a large amount of mathematics, specifying Prob Stat. I will sometimes update the repo  about it, but if you're interested, I recommend the course PGM [CS228](https://ermongroup.github.io/cs228/) of Stanford. I hope you love it!
+I was in training Phase 2 DSLab, about the Probabilistics Graph Model, which needed a large amount of mathematics, specifying Prob Stat. I will sometimes update the repo about it, but if you're interested, I recommend the course PGM [CS228](https://ermongroup.github.io/cs228/) of Stanford. I hope you love it!
 
-And I know people who read this `README.md want to join DSLab and I think you know me :) Application forms will be released in August each year on [BKAI](https://www.facebook.com/bk.ai.ResearchCenter). You have 2 months to wait to check your pending CV, and people who passed will announce in last September if your CV is very good. You have your first interview at the beginning of October, and then you have 3 months to train in math by yourself on your way to interview 2. Don't worry about it because I'm also not good at math and ﻿still passed it. Good luck for all, hope see you soon at DSLab. 
+And I know people who read this `README.md` want to join DSLab and I think you know me. Application forms will be opened in August each year on [BKAI](https://www.facebook.com/bk.ai.ResearchCenter). You have 2 months to wait to check your pending CV, and people who passed will announce in last September if your CV is very good. You have your first interview at the beginning of October, and then you have 3 months to train in math by yourself on your way to interview 2. Total time needed to become a DSLab official member may be approximately 6 months. 
+
+Don't worry about it because I'm also not good at math and still passed it. Good luck for all, hope see you soon at DSLab ^^ 
