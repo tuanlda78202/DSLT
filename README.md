@@ -4,7 +4,7 @@
 
 Repository contains somethings about materials, code and papers for Traing Phase 1 [DSLab](https://bkai.ai/research/machine-learning/), [International Center BKAI](https://bkai.ai). 
 
-Phase 1 training focus all fundamentals of Machine Learning and Deep Learning, practice in domain NLP.
+Phase 1 training focus all fundamentals of Machine Learning and Deep Learning, practice in domain NLP. You can practice right now with Google Colab above
     
 ## Directories 
 - `materials`: All lecture of Course [Machine Learning](https://bkai.ai/course/machine-learning-and-data-mining/) IT3190E of HUST, teaching by [Assoc Prof Than Quang Khoat](https://users.soict.hust.edu.vn/khoattq/) - Team Leader DSLab
@@ -17,3 +17,7 @@ Each season we have:
 - `ss/data`: Store data raw/processed for training 
 - `ss/materials`: Some papers to researching 
 - `ss/src`: Source code
+
+
+## Note 
+I trained 
