@@ -1,35 +1,38 @@
 # DSLab BKAI Training Y22
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuanlda78202/DSLT/)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tuanlda78202/DSLT?color=%23F7CAC9&label=Commit&logo=Battle.net&logoColor=%23DFCFBE&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/tuanlda78202/DSLT?color=%23F7CAC9&label=Last%20Commit&logo=Google%20Photos&logoColor=%23DFCFBE&style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/tuanlda78202/DSLT?color=%23F7CAC9&label=Repo%20Size&logo=Databricks&logoColor=%23DFCFBE&style=flat-square)  
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tuanlda78202/DSLT?color=%23F7CAC9&label=Commit&logo=Battle.net&logoColor=%23DFCFBE&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/tuanlda78202/DSLT?color=%23F7CAC9&label=Last%20Commit&logo=Google%20Photos&logoColor=%23DFCFBE&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/tuanlda78202/DSLT?color=%23F7CAC9&label=Repo%20Size&logo=Databricks&logoColor=%23DFCFBE&style=flat-square)
 
-Repository contains somethings about materials, code and papers for Traing Phase 1 [DSLab](https://bkai.ai/research/machine-learning/), [International Center BKAI](https://bkai.ai). 
+This repository contains materials, code, and papers for Phase 1 of the [DSLab](https://bkai.ai/research/machine-learning/) training program, part of the [International Center BKAI](https://bkai.ai).
 
-Phase 1 training focuses on all the fundamentals of Machine Learning and Deep Learning, practice in domain NLP. You can practice right now with the Google Colab badge above.
+Phase 1 training focuses on the fundamentals of Machine Learning and Deep Learning, with a practical emphasis on NLP. You can start practicing right away using the Google Colab badge above.
 
-## Directories 
+## Directories
 
-- `materials`: All lectures of course [Machine Learning](https://bkai.ai/course/machine-learning-and-data-mining/) IT3190E of HUST, taught by [Assoc Prof Than Quang Khoat](https://users.soict.hust.edu.vn/khoattq/) - Team Leader DSLab
+- `materials`: Contains all lectures from the [Machine Learning](https://bkai.ai/course/machine-learning-and-data-mining/) IT3190E course at HUST, taught by [Assoc. Prof. Than Quang Khoat](https://users.soict.hust.edu.vn/khoattq/), Team Leader of DSLab.
 
-- `ss1`: Season 1 focus Preprocessing text documents with TF-IDF and Ridge Regression 
+- `ss1`: Season 1 focuses on preprocessing text documents with TF-IDF and Ridge Regression.
 
-- `ss2`: Season 2 focus K-Means & SVM
+- `ss2`: Season 2 focuses on K-Means and SVM.
 
-- `ss3`: Season 3 focus ANN 
+- `ss3`: Season 3 focuses on ANN.
 
-- `ss3`: Season 4 focus time-series data, specifying RNNs 
+- `ss4`: Season 4 focuses on time-series data, specifically RNNs.
 
-Each season we have:
+Each season includes:
 
-- `ss/data`: Store data raw/processed for training 
+- `ss/data`: Stores raw and processed data for training.
 
-- `ss/materials`: Some papers for research
+- `ss/materials`: Contains research papers.
 
-- `ss/src`: Source code
+- `ss/src`: Source code.
 
-## Note 
+## Note
 
-I was in training Phase 2 DSLab, about the Probabilistics Graph Model, which needed a large amount of mathematics, specifying Prob Stat. I will sometimes update the repo about it, but if you're interested, I recommend the course PGM [CS228](https://ermongroup.github.io/cs228/) of Stanford. I hope you love it!
+I am currently in Phase 2 of the DSLab training, which focuses on Probabilistic Graph Models and requires a substantial amount of mathematics, particularly in Probability and Statistics. I will occasionally update this repository with relevant content. If you are interested, I recommend the [CS228](https://ermongroup.github.io/cs228/) course on Probabilistic Graphical Models from Stanford.
 
-And I know people who read this `README.md` want to join DSLab and I think you know me. Application forms will be opened in August each year on [BKAI](https://www.facebook.com/bk.ai.ResearchCenter). You have 2 months to wait to check your pending CV, and people who passed will announce in last September if your CV is very good. You have your first interview at the beginning of October, and then you have 3 months to train in math by yourself on your way to interview 2. Total time needed to become a DSLab official member may be approximately 6 months. 
+If you are reading this `README.md`, you may be interested in joining DSLab. Application forms open in August each year on [BKAI's Facebook page](https://www.facebook.com/bk.ai.ResearchCenter). The application process includes a 2-month waiting period for CV review, with announcements made in late September for successful applicants. The first interview takes place at the beginning of October, followed by a 3-month period of self-study in mathematics before the second interview. The entire process to become an official member of DSLab takes approximately 6 months.
 
-Don't worry about it because I'm also not good at math and still passed it. Good luck for all, hope see you soon at DSLab ^^ 
+Don't worry if you're not confident in your math skills; I wasn't either, but I still made it. Good luck, and I hope to see you soon at DSLab!
